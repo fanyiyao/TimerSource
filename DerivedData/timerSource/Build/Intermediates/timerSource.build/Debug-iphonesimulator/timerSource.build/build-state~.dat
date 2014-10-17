@@ -1,0 +1,377 @@
+TtimerSource
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/PrecompiledHeaders/timerSource-Prefix-gqswysmvuwqzuqbsujgjqhijqlkz/timerSource-Prefix.pch.pch timerSource/timerSource-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/Objects-normal/i386/AppDelegate.o /Users/xtmac02/Desktop/timerSource/timerSource/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/Objects-normal/i386/ViewController.o /Users/xtmac02/Desktop/timerSource/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/Objects-normal/i386/main.o /Users/xtmac02/Desktop/timerSource/timerSource/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/Objects-normal/i386/TimerDispatchSource.o /Users/xtmac02/Desktop/timerSource/TimerDispatchSource.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app/timerSource normal i386
+cCopyStringsFile /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app/en.lproj/InfoPlist.strings timerSource/en.lproj/InfoPlist.strings
+cCompileAssetCatalog /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app /Users/xtmac02/Desktop/timerSource/timerSource/Images.xcassets
+cProcessInfoPlistFile /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app/Info.plist /Users/xtmac02/Desktop/timerSource/timerSource/timerSource-Info.plist
+cGenerateDSYMFile /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app.dSYM /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app/timerSource
+cTouch /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000533B9F9C00000000000003B4
+t1396416412
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000533B9FA9000000000000019E
+t1396416425
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000533B9FAC0000000000446820
+t1396416428
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000533B9FAE000000000088D8C0
+t1396416430
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000533B9FB50000000001F1DE10
+t1396416437
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000533B6DFC0000000000000ADC
+t1396403708
+s2780
+
+N/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/PrecompiledHeaders/timerSource-Prefix-gqswysmvuwqzuqbsujgjqhijqlkz/timerSource-Prefix.pch.pch
+t1413530782
+s116072
+
+N/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/Objects-normal/i386/AppDelegate.o
+t1413530782
+s64504
+
+N/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/Objects-normal/i386/TimerDispatchSource.o
+t1413530782
+s10536
+
+N/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/Objects-normal/i386/ViewController.o
+t1413530782
+s52244
+
+N/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/Objects-normal/i386/main.o
+t1413530782
+s3532
+
+N/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/Objects-normal/i386/timerSource.LinkFileList
+c000000005440C49D00000000000002B0
+t1413530781
+s688
+
+N/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/assetcatalog_dependencies.txt
+t1413530795
+s450
+
+N/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/assetcatalog_generated_info.plist
+t1413530795
+s525
+
+N/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app
+t1413530795
+s272
+
+N/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app.dSYM
+t2
+s0
+
+N/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app/Info.plist
+t1413530795
+s1196
+
+N/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app/PkgInfo
+t1413530795
+s8
+
+N/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app/en.lproj/InfoPlist.strings
+t1413530783
+s42
+
+N/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app/timerSource
+t1413530783
+s29656
+
+N/Users/xtmac02/Desktop/timerSource/TimerDispatchSource.m
+c000000005440B93300000000000004DA
+t1413527859
+s1242
+
+N/Users/xtmac02/Desktop/timerSource/ViewController.m
+c000000005440BA930000000000000904
+t1413528211
+s2308
+
+N/Users/xtmac02/Desktop/timerSource/timerSource/AppDelegate.m
+c000000005440C49C0000000000000907
+t1413530780
+s2311
+
+N/Users/xtmac02/Desktop/timerSource/timerSource/Images.xcassets
+c000000005440C4240000000000000088
+t1413530660
+s136
+
+N/Users/xtmac02/Desktop/timerSource/timerSource/en.lproj/InfoPlist.strings
+c000000005440C424000000000000002D
+t1413530660
+s45
+
+N/Users/xtmac02/Desktop/timerSource/timerSource/main.m
+c000000005440C424000000000000015C
+t1413530660
+s348
+
+N/Users/xtmac02/Desktop/timerSource/timerSource/timerSource-Info.plist
+c000000005440C42400000000000005A9
+t1413530660
+s1449
+
+N/Users/xtmac02/Desktop/timerSource/timerSource/timerSource-Prefix.pch
+c000000005440C4240000000000000158
+t1413530660
+s344
+
+CBuild AST from /Users/xtmac02/Desktop/timerSource/TimerDispatchSource.m
+r0
+
+CBuild AST from /Users/xtmac02/Desktop/timerSource/ViewController.m
+r0
+
+CBuild AST from /Users/xtmac02/Desktop/timerSource/timerSource/AppDelegate.m
+r0
+
+CBuild AST from /Users/xtmac02/Desktop/timerSource/timerSource/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies5f5d1d1dfcf0b941^63d22f1dfcf0b941^---0#1#1#--18"Check dependencies36"F6CAED4E-5388-411C-B763-168B4A1E7FE5-
+
+CCompileAssetCatalog /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app /Users/xtmac02/Desktop/timerSource/timerSource/Images.xcassets
+s435223583.578331
+e435223595.474955
+r1
+xCompileAssetCatalog
+x/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app
+x/Users/xtmac02/Desktop/timerSource/timerSource/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app/LaunchImage-700-568h@2x.png
+o/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app/Assets.car
+o/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"CompileAssetCatalog DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app timerSource/Images.xcassets124"CompileAssetCatalog DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app timerSource/Images.xcassets581e941ffcf0b941^419a792bfcf0b941^-478"/* com.apple.actool.compilation-results *//Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app/LaunchImage-700-568h@2x.png/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app/Assets.car/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@70"file:///Users/xtmac02/Desktop/timerSource/timerSource/Images.xcassets/0000000000000000^1267"CompileAssetCatalog DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app timerSource/Images.xcassets    cd /Users/xtmac02/Desktop/timerSource    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --target-device ipad --compress-pngs --compile /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app /Users/xtmac02/Desktop/timerSource/timerSource/Images.xcassets36"F7CF540E-B44A-4363-9407-AFD2B9A15403-
+b27094051-40E0-4F68-9BEF-593DE744F20C
+
+CCompileC DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/Objects-normal/i386/AppDelegate.o /Users/xtmac02/Desktop/timerSource/timerSource/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s435223582.744925
+e435223582.894095
+r1
+xCompileC
+xDerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/Objects-normal/i386/AppDelegate.o
+x/Users/xtmac02/Desktop/timerSource/timerSource/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/xtmac02/Desktop/timerSource/timerSource/AppDelegate.m
+d/Users/xtmac02/Desktop/timerSource/timerSource/AppDelegate.h
+d/Users/xtmac02/Desktop/timerSource/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/xtmac02/Desktop/timerSource/timerSource/AppDelegate.m238"CompileC DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/Objects-normal/i386/AppDelegate.o timerSource/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler39f0be1efcf0b941^65e4e41efcf0b941^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/xtmac02/Desktop/timerSource/timerSource/AppDelegate.m0000000000000000^4017"CompileC DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/Objects-normal/i386/AppDelegate.o timerSource/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/xtmac02/Desktop/timerSource    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/xtmac02/Desktop/timerSource/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/timerSource-generated-files.hmap -I/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/timerSource-own-target-headers.hmap -I/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/timerSource-all-target-headers.hmap -iquote /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/timerSource-project-headers.hmap -I/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/DerivedSources/i386 -I/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/DerivedSources -F/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Products/Debug-iphonesimulator -include /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/PrecompiledHeaders/timerSource-Prefix-gqswysmvuwqzuqbsujgjqhijqlkz/timerSource-Prefix.pch -MMD -MT dependencies -MF /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/Objects-normal/i386/AppDelegate.dia -c /Users/xtmac02/Desktop/timerSource/timerSource/AppDelegate.m -o /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/Objects-normal/i386/AppDelegate.o36"FE7BE271-E4F2-4DA4-B505-A31C071DFB3B-
+b27094051-40E0-4F68-9BEF-593DE744F20C
+
+CCompileC DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/Objects-normal/i386/TimerDispatchSource.o /Users/xtmac02/Desktop/timerSource/TimerDispatchSource.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s435223582.748868
+e435223582.894163
+r1
+xCompileC
+xDerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/Objects-normal/i386/TimerDispatchSource.o
+x/Users/xtmac02/Desktop/timerSource/TimerDispatchSource.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/xtmac02/Desktop/timerSource/TimerDispatchSource.m
+d/Users/xtmac02/Desktop/timerSource/TimerDispatchSource.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/xtmac02/Desktop/timerSource/TimerDispatchSource.m242"CompileC DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/Objects-normal/i386/TimerDispatchSource.o TimerDispatchSource.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler261ec01efcf0b941^f2eee41efcf0b941^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/xtmac02/Desktop/timerSource/TimerDispatchSource.m0000000000000000^4041"CompileC DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/Objects-normal/i386/TimerDispatchSource.o TimerDispatchSource.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/xtmac02/Desktop/timerSource    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/xtmac02/Desktop/timerSource/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/timerSource-generated-files.hmap -I/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/timerSource-own-target-headers.hmap -I/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/timerSource-all-target-headers.hmap -iquote /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/timerSource-project-headers.hmap -I/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/DerivedSources/i386 -I/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/DerivedSources -F/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Products/Debug-iphonesimulator -include /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/PrecompiledHeaders/timerSource-Prefix-gqswysmvuwqzuqbsujgjqhijqlkz/timerSource-Prefix.pch -MMD -MT dependencies -MF /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/Objects-normal/i386/TimerDispatchSource.d --serialize-diagnostics /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/Objects-normal/i386/TimerDispatchSource.dia -c /Users/xtmac02/Desktop/timerSource/TimerDispatchSource.m -o /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/Objects-normal/i386/TimerDispatchSource.o36"9EB806FC-14A3-4A7D-9EED-962E700629B2-
+b27094051-40E0-4F68-9BEF-593DE744F20C
+
+CCompileC DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/Objects-normal/i386/ViewController.o /Users/xtmac02/Desktop/timerSource/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s435223582.748939
+e435223582.895749
+r1
+xCompileC
+xDerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/Objects-normal/i386/ViewController.o
+x/Users/xtmac02/Desktop/timerSource/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/xtmac02/Desktop/timerSource/ViewController.m
+d/Users/xtmac02/Desktop/timerSource/ViewController.h
+d/Users/xtmac02/Desktop/timerSource/TimerDispatchSource.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/xtmac02/Desktop/timerSource/ViewController.m232"CompileC DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/Objects-normal/i386/ViewController.o ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerfd49c01efcf0b941^3350e51efcf0b941^---0#0#1#-19%DVTDocumentLocation2@58"file:///Users/xtmac02/Desktop/timerSource/ViewController.m0000000000000000^4011"CompileC DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/Objects-normal/i386/ViewController.o ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/xtmac02/Desktop/timerSource    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/xtmac02/Desktop/timerSource/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/timerSource-generated-files.hmap -I/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/timerSource-own-target-headers.hmap -I/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/timerSource-all-target-headers.hmap -iquote /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/timerSource-project-headers.hmap -I/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/DerivedSources/i386 -I/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/DerivedSources -F/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Products/Debug-iphonesimulator -include /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/PrecompiledHeaders/timerSource-Prefix-gqswysmvuwqzuqbsujgjqhijqlkz/timerSource-Prefix.pch -MMD -MT dependencies -MF /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/Objects-normal/i386/ViewController.dia -c /Users/xtmac02/Desktop/timerSource/ViewController.m -o /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/Objects-normal/i386/ViewController.o36"BB07AC9D-FAF5-490F-8D50-EBCA8C05298B-
+b27094051-40E0-4F68-9BEF-593DE744F20C
+
+CCompileC DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/Objects-normal/i386/main.o /Users/xtmac02/Desktop/timerSource/timerSource/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s435223582.748970
+e435223582.882959
+r1
+xCompileC
+xDerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/Objects-normal/i386/main.o
+x/Users/xtmac02/Desktop/timerSource/timerSource/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/xtmac02/Desktop/timerSource/timerSource/main.m
+d/Users/xtmac02/Desktop/timerSource/timerSource/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/xtmac02/Desktop/timerSource/timerSource/main.m224"CompileC DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/Objects-normal/i386/main.o timerSource/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1adfbf1efcf0b941^420ae21efcf0b941^---0#0#1#-19%DVTDocumentLocation2@60"file:///Users/xtmac02/Desktop/timerSource/timerSource/main.m0000000000000000^3975"CompileC DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/Objects-normal/i386/main.o timerSource/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/xtmac02/Desktop/timerSource    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/xtmac02/Desktop/timerSource/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/timerSource-generated-files.hmap -I/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/timerSource-own-target-headers.hmap -I/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/timerSource-all-target-headers.hmap -iquote /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/timerSource-project-headers.hmap -I/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/DerivedSources/i386 -I/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/DerivedSources -F/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Products/Debug-iphonesimulator -include /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/PrecompiledHeaders/timerSource-Prefix-gqswysmvuwqzuqbsujgjqhijqlkz/timerSource-Prefix.pch -MMD -MT dependencies -MF /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/Objects-normal/i386/main.dia -c /Users/xtmac02/Desktop/timerSource/timerSource/main.m -o /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/Objects-normal/i386/main.o36"1C7ABF11-9279-4234-BF1D-FFCE21F0D640-
+b27094051-40E0-4F68-9BEF-593DE744F20C
+
+CCopyStringsFile /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app/en.lproj/InfoPlist.strings timerSource/en.lproj/InfoPlist.strings
+s435223583.577815
+e435223583.620102
+r1
+xCopyStringsFile
+x/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app/en.lproj/InfoPlist.strings
+xtimerSource/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy timerSource/en.lproj/InfoPlist.strings158"CopyStringsFile DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app/en.lproj/InfoPlist.strings timerSource/en.lproj/InfoPlist.strings8e02941ffcf0b941^2fc09e1ffcf0b941^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/xtmac02/Desktop/timerSource/timerSource/en.lproj/InfoPlist.strings0000000000000000^649"CopyStringsFile DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app/en.lproj/InfoPlist.strings timerSource/en.lproj/InfoPlist.strings    cd /Users/xtmac02/Desktop/timerSource    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app/en.lproj -- timerSource/en.lproj/InfoPlist.strings36"3A0616F3-5546-4F12-BD45-03B1A9A7A755-
+b27094051-40E0-4F68-9BEF-593DE744F20C
+
+CGenerateDSYMFile /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app.dSYM /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app/timerSource
+s435223595.479613
+e435223595.564014
+r1
+xGenerateDSYMFile
+x/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app.dSYM
+x/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app/timerSource
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Generate /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app.dSYM187"GenerateDSYMFile DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app.dSYM DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app/timerSource67d67a2bfcf0b941^1364902bfcf0b941^---0#0#1#-19%DVTDocumentLocation2@123"file:///Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app.dSYM0034d410dfffdf42^769"GenerateDSYMFile DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app.dSYM DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app/timerSource    cd /Users/xtmac02/Desktop/timerSource    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app/timerSource -o /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app.dSYM36"77444D57-FC2E-41D8-8470-F18D7FE9FCB5-
+b27094051-40E0-4F68-9BEF-593DE744F20C
+
+CLd /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app/timerSource normal i386
+s435223582.896530
+e435223583.576846
+r1
+xLd
+x/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app/timerSource
+xnormal
+xi386
+d/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/Objects-normal/i386/timerSource.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/Objects-normal/i386/AppDelegate.o
+d/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/Objects-normal/i386/TimerDispatchSource.o
+d/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/Objects-normal/i386/ViewController.o
+d/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libdyld.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Link /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app/timerSource103"Ld DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app/timerSource normal i3864f93e51efcf0b941^4bad931ffcf0b941^---0#0#1#--1549"Ld DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app/timerSource normal i386    cd /Users/xtmac02/Desktop/timerSource    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Products/Debug-iphonesimulator -F/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Products/Debug-iphonesimulator -filelist /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/Objects-normal/i386/timerSource.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/Objects-normal/i386/timerSource_dependency_info.dat -o /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app/timerSource36"CCD10C28-5455-4DEE-AD9A-D9E06FD146D1-
+b27094051-40E0-4F68-9BEF-593DE744F20C
+
+CProcessInfoPlistFile /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app/Info.plist /Users/xtmac02/Desktop/timerSource/timerSource/timerSource-Info.plist
+s435223595.475860
+e435223595.479073
+r1
+xProcessInfoPlistFile
+x/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app/Info.plist
+x/Users/xtmac02/Desktop/timerSource/timerSource/timerSource-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Process /Users/xtmac02/Desktop/timerSource/timerSource/timerSource-Info.plist143"ProcessInfoPlistFile DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app/Info.plist timerSource/timerSource-Info.plista3e8792bfcf0b941^9ca77a2bfcf0b941^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/xtmac02/Desktop/timerSource/timerSource/timerSource-Info.plist0000000000000000^994"ProcessInfoPlistFile DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app/Info.plist timerSource/timerSource-Info.plist    cd /Users/xtmac02/Desktop/timerSource    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/xtmac02/Desktop/timerSource/timerSource/timerSource-Info.plist -genpkginfo /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/assetcatalog_generated_info.plist -o /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app/Info.plist36"5F6C3B6F-4FA7-44DB-9294-84FC048BD96A-
+b27094051-40E0-4F68-9BEF-593DE744F20C
+
+CProcessPCH /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/PrecompiledHeaders/timerSource-Prefix-gqswysmvuwqzuqbsujgjqhijqlkz/timerSource-Prefix.pch.pch timerSource/timerSource-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s435223581.187182
+e435223582.743887
+r1
+xProcessPCH
+x/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/PrecompiledHeaders/timerSource-Prefix-gqswysmvuwqzuqbsujgjqhijqlkz/timerSource-Prefix.pch.pch
+xtimerSource/timerSource-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/xtmac02/Desktop/timerSource/timerSource/timerSource-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile timerSource/timerSource-Prefix.pch251"ProcessPCH DerivedData/timerSource/Build/Intermediates/PrecompiledHeaders/timerSource-Prefix-gqswysmvuwqzuqbsujgjqhijqlkz/timerSource-Prefix.pch.pch timerSource/timerSource-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7311331dfcf0b941^e76fbe1efcf0b941^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/xtmac02/Desktop/timerSource/timerSource/timerSource-Prefix.pch0000000000000000^3870"ProcessPCH DerivedData/timerSource/Build/Intermediates/PrecompiledHeaders/timerSource-Prefix-gqswysmvuwqzuqbsujgjqhijqlkz/timerSource-Prefix.pch.pch timerSource/timerSource-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/xtmac02/Desktop/timerSource    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/xtmac02/Desktop/timerSource/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/timerSource-generated-files.hmap -I/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/timerSource-own-target-headers.hmap -I/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/timerSource-all-target-headers.hmap -iquote /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/timerSource-project-headers.hmap -I/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/DerivedSources/i386 -I/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/timerSource.build/Debug-iphonesimulator/timerSource.build/DerivedSources -F/Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/PrecompiledHeaders/timerSource-Prefix-gqswysmvuwqzuqbsujgjqhijqlkz/timerSource-Prefix.pch.dia -MMD -MT dependencies -MF /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/PrecompiledHeaders/timerSource-Prefix-gqswysmvuwqzuqbsujgjqhijqlkz/timerSource-Prefix.pch.d -c /Users/xtmac02/Desktop/timerSource/timerSource/timerSource-Prefix.pch -o /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Intermediates/PrecompiledHeaders/timerSource-Prefix-gqswysmvuwqzuqbsujgjqhijqlkz/timerSource-Prefix.pch.pch36"D31B51CB-5AD5-453E-B36F-3DF52CCAE0DC-
+b27094051-40E0-4F68-9BEF-593DE744F20C
+
+CProcessPCH /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Index/PrecompiledHeaders/timerSource-Prefix-ajzxadciykzgdagcezhttgnwwvsl_ast/timerSource-Prefix.pch.pch timerSource/timerSource-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/xtmac02/Desktop/timerSource/DerivedData/timerSource/Build/Products/Debug-iphonesimulator/timerSource.app
+r0
+
